@@ -5,4 +5,8 @@ public final class Rycerz extends Walczaca {
         this.punktyZycia = punktyZycia;
         this.sila = sila;
     }
+
+    public int getPunktyZycia() {
+        return punktyZycia;
+    }
 }

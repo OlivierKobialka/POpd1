@@ -14,7 +14,7 @@ public final class Pracownik {
         this.pensja = pensja;
     }
 
-    public int getPensla() {
+    public int getPensja() {
         return pensja;
     }
 

@@ -7,7 +7,7 @@ public abstract class Postac {
         return punktyZycia;
     }
 
-    public void setPunktyZycia(int punktyZycia) {
+    public void zmienPunktyZycia(int punktyZycia) {
         this.punktyZycia = punktyZycia;
     }
 }
